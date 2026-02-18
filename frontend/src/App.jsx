@@ -31,7 +31,7 @@ import { setNotificationData } from './redux/userSlice';
 
 
 
-export const serverUrl = "http://localhost:8000"; 
+export const serverUrl = "https://vibez-backend-synb.onrender.com"
 
 function App(){
   
